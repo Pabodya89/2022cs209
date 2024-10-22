@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Pabodya+Nethsarani;From+Embilipitiya,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Pabodya+Nethsarani;From+Colombo,+Sri+Lanka.;(UG)+University+Of+Colombo+School+Of+Computing)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 <img src="https://thumbs.dreamstime.com/b/young-professional-woman-working-computer-51179968.jpg" >
